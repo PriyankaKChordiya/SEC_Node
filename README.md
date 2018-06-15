@@ -14,3 +14,7 @@ Install npm:
 Install mysql:
 
     $npm install mysql 
+    
+To run server:
+    $node Settings.js
+    
